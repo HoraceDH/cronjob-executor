@@ -1,0 +1,13 @@
+.gradle
+.idea
+*.iml
+out
+build
+deploy
+/logs/
+target
+upload-sdk*
+.vscode
+.history
+check_port
+go.sum
